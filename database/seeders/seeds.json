@@ -1,0 +1,3527 @@
+{
+    "golfers": [
+        {
+            "type": "golfer",
+            "name": "Shane",
+            "surname": "Kirwan",
+            "email": "shane@example.com",
+            "email_verified_at": null,
+            "remember_token": null,
+            "deleted_at": null
+        },
+        {
+            "type": "golfer",
+            "name": "David",
+            "surname": "Kirwan",
+            "email": "david@example.com",
+            "email_verified_at": null,
+            "remember_token": null,
+            "deleted_at": null
+        },
+        {
+            "type": "golfer",
+            "name": "Brendan",
+            "surname": "Gogan",
+            "email": "brendan@example.com",
+            "email_verified_at": null,
+            "remember_token": null,
+            "deleted_at": null
+        },
+        {
+            "type": "golfer",
+            "name": "Colin",
+            "surname": "Folan",
+            "email": "folan@example.com",
+            "email_verified_at": null,
+            "remember_token": null,
+            "deleted_at": null
+        },
+        {
+            "type": "golfer",
+            "name": "Brian",
+            "surname": "O'Sullivan",
+            "email": "brian@example.com",
+            "email_verified_at": null,
+            "remember_token": null,
+            "deleted_at": null
+        },
+        {
+            "type": "golfer",
+            "name": "Alan",
+            "surname": "Power",
+            "email": "alan@example.com",
+            "email_verified_at": null,
+            "remember_token": null,
+            "deleted_at": null
+        },
+        {
+            "type": "golfer",
+            "name": "Robbie",
+            "surname": "Gill",
+            "email": "robbie@example.com",
+            "email_verified_at": null,
+            "remember_token": null,
+            "deleted_at": null
+        },
+        {
+            "type": "golfer",
+            "name": "Jon",
+            "surname": "Sempers",
+            "email": "jon@example.com",
+            "email_verified_at": null,
+            "remember_token": null,
+            "deleted_at": null
+        },
+        {
+            "type": "golfer",
+            "name": "Robbie",
+            "surname": "O'Neill",
+            "email": "robbieoneill@example.com",
+            "email_verified_at": null,
+            "remember_token": null,
+            "deleted_at": null
+        },
+        {
+            "type": "golfer",
+            "name": "Eoin",
+            "surname": "Kelly",
+            "email": "eoin@example.com",
+            "email_verified_at": null,
+            "remember_token": null,
+            "deleted_at": null
+        },
+        {
+            "type": "golfer",
+            "name": "Mark",
+            "surname": "Macadden",
+            "email": "mark@example.com",
+            "email_verified_at": null,
+            "remember_token": null,
+            "deleted_at": null
+        },
+        {
+            "type": "golfer",
+            "name": "Stephen",
+            "surname": "Kelly",
+            "email": "stephen@example.com",
+            "email_verified_at": null,
+            "remember_token": null,
+            "deleted_at": null
+        },
+        {
+            "type": "golfer",
+            "name": "Peter",
+            "surname": "Gill",
+            "email": "peter@example.com",
+            "email_verified_at": null,
+            "remember_token": null,
+            "deleted_at": null
+        },
+        {
+            "type": "golfer",
+            "name": "Trevor",
+            "surname": "Gill",
+            "email": "trevor@example.com",
+            "email_verified_at": null,
+            "remember_token": null,
+            "deleted_at": null
+        },
+        {
+            "type": "golfer",
+            "name": "Ethan",
+            "surname": "Astor",
+            "email": "ethan@example.com",
+            "email_verified_at": null,
+            "remember_token": null,
+            "deleted_at": null
+        },
+        {
+            "type": "golfer",
+            "name": "Kevin",
+            "surname": "Kelly",
+            "email": "kevin@example.com",
+            "email_verified_at": null,
+            "remember_token": null,
+            "deleted_at": null
+        },
+        {
+            "type": "golfer",
+            "name": "Fintan",
+            "surname": "Murphy",
+            "email": "fintan@example.com",
+            "email_verified_at": null,
+            "remember_token": null,
+            "deleted_at": null
+        }
+    ],
+    "courses": [
+        {
+            "name": "Castle Barna Golf Club"
+        },
+        {
+            "name": "Cobh Golf Club"
+        },
+        {
+            "name": "Moyvalley Golf Club"
+        },
+        {
+            "name": "Seapoint Golf Club"
+        },
+        {
+            "name": "Portmarnock Golf Club"
+        },
+        {
+            "name": "Galway Bay Golf Club"
+        },
+        {
+            "name": "Fota Island Resort - Deerpark Course"
+        },
+        {
+            "name": "Carton House - O'Meara Course"
+        },
+        {
+            "name": "Rosapenna - Old Tom Morris Links"
+        },
+        {
+            "name": "Rosapenna - Sandy Hills"
+        },
+        {
+            "name": "Elmgreen Golf Club"
+        },
+        {
+            "name": "Esker Hills Golf Club"
+        },
+        {
+            "name": "Bellewstown Golf Club"
+        },
+        {
+            "name": "Castleknock Golf Club"
+        },
+        {
+            "name": "Palmerstown Stud Golf Club"
+        },
+        {
+            "name": "New Forest Golf Club"
+        },
+        {
+            "name": "Knightsbrook Golf Club"
+        },
+        {
+            "name": "Powerscourt Golf Club - East Course"
+        },
+        {
+            "name": "Lahinch - Castle Course"
+        },
+        {
+            "name": "Lahinch Golf Club"
+        },
+        {
+            "name": "Knockanally Golf Club"
+        },
+        {
+            "name": "Laytown/Bettystown Golf Club"
+        },
+        {
+            "name": "Carlow Golf Club"
+        },
+        {
+            "name": "Tulfarris Golf Club"
+        },
+        {
+            "name": "Mount Juliet"
+        },
+        {
+            "name": "Castlerosse Golf Club"
+        },
+        {
+            "name": "Headfort Golf Club - New Course"
+        },
+        {
+            "name": "Luttrellstown Golf Club"
+        }
+    ],
+    "holes": [
+        {
+            "course_id": 1,
+            "number": 1,
+            "par": 4,
+            "stroke_index": 7
+        },
+        {
+            "course_id": 1,
+            "number": 2,
+            "par": 4,
+            "stroke_index": 9
+        },
+        {
+            "course_id": 1,
+            "number": 3,
+            "par": 3,
+            "stroke_index": 3
+        },
+        {
+            "course_id": 1,
+            "number": 4,
+            "par": 4,
+            "stroke_index": 13
+        },
+        {
+            "course_id": 1,
+            "number": 5,
+            "par": 3,
+            "stroke_index": 11
+        },
+        {
+            "course_id": 1,
+            "number": 6,
+            "par": 3,
+            "stroke_index": 5
+        },
+        {
+            "course_id": 1,
+            "number": 7,
+            "par": 5,
+            "stroke_index": 17
+        },
+        {
+            "course_id": 1,
+            "number": 8,
+            "par": 5,
+            "stroke_index": 1
+        },
+        {
+            "course_id": 1,
+            "number": 9,
+            "par": 4,
+            "stroke_index": 15
+        },
+        {
+            "course_id": 1,
+            "number": 10,
+            "par": 5,
+            "stroke_index": 18
+        },
+        {
+            "course_id": 1,
+            "number": 11,
+            "par": 3,
+            "stroke_index": 10
+        },
+        {
+            "course_id": 1,
+            "number": 12,
+            "par": 4,
+            "stroke_index": 14
+        },
+        {
+            "course_id": 1,
+            "number": 13,
+            "par": 4,
+            "stroke_index": 16
+        },
+        {
+            "course_id": 1,
+            "number": 14,
+            "par": 4,
+            "stroke_index": 8
+        },
+        {
+            "course_id": 1,
+            "number": 15,
+            "par": 4,
+            "stroke_index": 2
+        },
+        {
+            "course_id": 1,
+            "number": 16,
+            "par": 5,
+            "stroke_index": 12
+        },
+        {
+            "course_id": 1,
+            "number": 17,
+            "par": 4,
+            "stroke_index": 6
+        },
+        {
+            "course_id": 1,
+            "number": 18,
+            "par": 4,
+            "stroke_index": 4
+        },
+        {
+            "course_id": 2,
+            "number": 1,
+            "par": 4,
+            "stroke_index": 9
+        },
+        {
+            "course_id": 2,
+            "number": 2,
+            "par": 4,
+            "stroke_index": 11
+        },
+        {
+            "course_id": 2,
+            "number": 3,
+            "par": 5,
+            "stroke_index": 7
+        },
+        {
+            "course_id": 2,
+            "number": 4,
+            "par": 5,
+            "stroke_index": 17
+        },
+        {
+            "course_id": 2,
+            "number": 5,
+            "par": 4,
+            "stroke_index": 1
+        },
+        {
+            "course_id": 2,
+            "number": 6,
+            "par": 3,
+            "stroke_index": 3
+        },
+        {
+            "course_id": 2,
+            "number": 7,
+            "par": 4,
+            "stroke_index": 13
+        },
+        {
+            "course_id": 2,
+            "number": 8,
+            "par": 3,
+            "stroke_index": 15
+        },
+        {
+            "course_id": 2,
+            "number": 9,
+            "par": 4,
+            "stroke_index": 8
+        },
+        {
+            "course_id": 2,
+            "number": 10,
+            "par": 3,
+            "stroke_index": 6
+        },
+        {
+            "course_id": 2,
+            "number": 11,
+            "par": 5,
+            "stroke_index": 16
+        },
+        {
+            "course_id": 2,
+            "number": 12,
+            "par": 3,
+            "stroke_index": 14
+        },
+        {
+            "course_id": 2,
+            "number": 13,
+            "par": 5,
+            "stroke_index": 12
+        },
+        {
+            "course_id": 2,
+            "number": 14,
+            "par": 4,
+            "stroke_index": 2
+        },
+        {
+            "course_id": 2,
+            "number": 15,
+            "par": 3,
+            "stroke_index": 18
+        },
+        {
+            "course_id": 2,
+            "number": 16,
+            "par": 4,
+            "stroke_index": 8
+        },
+        {
+            "course_id": 2,
+            "number": 17,
+            "par": 4,
+            "stroke_index": 4
+        },
+        {
+            "course_id": 2,
+            "number": 18,
+            "par": 5,
+            "stroke_index": 10
+        },
+        {
+            "course_id": 3,
+            "number": 1,
+            "par": 4,
+            "stroke_index": 10
+        },
+        {
+            "course_id": 3,
+            "number": 2,
+            "par": 3,
+            "stroke_index": 16
+        },
+        {
+            "course_id": 3,
+            "number": 3,
+            "par": 4,
+            "stroke_index": 6
+        },
+        {
+            "course_id": 3,
+            "number": 4,
+            "par": 4,
+            "stroke_index": 12
+        },
+        {
+            "course_id": 3,
+            "number": 5,
+            "par": 3,
+            "stroke_index": 18
+        },
+        {
+            "course_id": 3,
+            "number": 6,
+            "par": 5,
+            "stroke_index": 4
+        },
+        {
+            "course_id": 3,
+            "number": 7,
+            "par": 4,
+            "stroke_index": 2
+        },
+        {
+            "course_id": 3,
+            "number": 8,
+            "par": 5,
+            "stroke_index": 8
+        },
+        {
+            "course_id": 3,
+            "number": 9,
+            "par": 4,
+            "stroke_index": 10
+        },
+        {
+            "course_id": 3,
+            "number": 10,
+            "par": 4,
+            "stroke_index": 11
+        },
+        {
+            "course_id": 3,
+            "number": 11,
+            "par": 4,
+            "stroke_index": 9
+        },
+        {
+            "course_id": 3,
+            "number": 12,
+            "par": 4,
+            "stroke_index": 7
+        },
+        {
+            "course_id": 3,
+            "number": 13,
+            "par": 5,
+            "stroke_index": 5
+        },
+        {
+            "course_id": 3,
+            "number": 14,
+            "par": 3,
+            "stroke_index": 17
+        },
+        {
+            "course_id": 3,
+            "number": 15,
+            "par": 4,
+            "stroke_index": 15
+        },
+        {
+            "course_id": 3,
+            "number": 16,
+            "par": 4,
+            "stroke_index": 3
+        },
+        {
+            "course_id": 3,
+            "number": 17,
+            "par": 3,
+            "stroke_index": 13
+        },
+        {
+            "course_id": 3,
+            "number": 18,
+            "par": 5,
+            "stroke_index": 1
+        },
+        {
+            "course_id": 4,
+            "number": 1,
+            "par": 4,
+            "stroke_index": 7
+        },
+        {
+            "course_id": 4,
+            "number": 2,
+            "par": 3,
+            "stroke_index": 11
+        },
+        {
+            "course_id": 4,
+            "number": 3,
+            "par": 4,
+            "stroke_index": 15
+        },
+        {
+            "course_id": 4,
+            "number": 4,
+            "par": 4,
+            "stroke_index": 3
+        },
+        {
+            "course_id": 4,
+            "number": 5,
+            "par": 3,
+            "stroke_index": 1
+        },
+        {
+            "course_id": 4,
+            "number": 6,
+            "par": 5,
+            "stroke_index": 17
+        },
+        {
+            "course_id": 4,
+            "number": 7,
+            "par": 4,
+            "stroke_index": 5
+        },
+        {
+            "course_id": 4,
+            "number": 8,
+            "par": 5,
+            "stroke_index": 13
+        },
+        {
+            "course_id": 4,
+            "number": 9,
+            "par": 4,
+            "stroke_index": 9
+        },
+        {
+            "course_id": 4,
+            "number": 10,
+            "par": 4,
+            "stroke_index": 18
+        },
+        {
+            "course_id": 4,
+            "number": 11,
+            "par": 4,
+            "stroke_index": 10
+        },
+        {
+            "course_id": 4,
+            "number": 12,
+            "par": 4,
+            "stroke_index": 4
+        },
+        {
+            "course_id": 4,
+            "number": 13,
+            "par": 5,
+            "stroke_index": 2
+        },
+        {
+            "course_id": 4,
+            "number": 14,
+            "par": 3,
+            "stroke_index": 6
+        },
+        {
+            "course_id": 4,
+            "number": 15,
+            "par": 4,
+            "stroke_index": 14
+        },
+        {
+            "course_id": 4,
+            "number": 16,
+            "par": 4,
+            "stroke_index": 12
+        },
+        {
+            "course_id": 4,
+            "number": 17,
+            "par": 3,
+            "stroke_index": 16
+        },
+        {
+            "course_id": 4,
+            "number": 18,
+            "par": 5,
+            "stroke_index": 8
+        },
+        {
+            "course_id": 6,
+            "number": 1,
+            "par": 5,
+            "stroke_index": 10
+        },
+        {
+            "course_id": 6,
+            "number": 2,
+            "par": 4,
+            "stroke_index": 6
+        },
+        {
+            "course_id": 6,
+            "number": 3,
+            "par": 4,
+            "stroke_index": 12
+        },
+        {
+            "course_id": 6,
+            "number": 4,
+            "par": 3,
+            "stroke_index": 18
+        },
+        {
+            "course_id": 6,
+            "number": 5,
+            "par": 4,
+            "stroke_index": 2
+        },
+        {
+            "course_id": 6,
+            "number": 6,
+            "par": 5,
+            "stroke_index": 14
+        },
+        {
+            "course_id": 6,
+            "number": 7,
+            "par": 3,
+            "stroke_index": 16
+        },
+        {
+            "course_id": 6,
+            "number": 8,
+            "par": 4,
+            "stroke_index": 4
+        },
+        {
+            "course_id": 6,
+            "number": 9,
+            "par": 4,
+            "stroke_index": 8
+        },
+        {
+            "course_id": 6,
+            "number": 10,
+            "par": 4,
+            "stroke_index": 9
+        },
+        {
+            "course_id": 6,
+            "number": 11,
+            "par": 4,
+            "stroke_index": 3
+        },
+        {
+            "course_id": 6,
+            "number": 12,
+            "par": 4,
+            "stroke_index": 1
+        },
+        {
+            "course_id": 6,
+            "number": 13,
+            "par": 3,
+            "stroke_index": 11
+        },
+        {
+            "course_id": 6,
+            "number": 14,
+            "par": 5,
+            "stroke_index": 13
+        },
+        {
+            "course_id": 6,
+            "number": 15,
+            "par": 3,
+            "stroke_index": 17
+        },
+        {
+            "course_id": 6,
+            "number": 16,
+            "par": 5,
+            "stroke_index": 15
+        },
+        {
+            "course_id": 6,
+            "number": 17,
+            "par": 4,
+            "stroke_index": 5
+        },
+        {
+            "course_id": 6,
+            "number": 18,
+            "par": 4,
+            "stroke_index": 7
+        },
+        {
+            "course_id": 7,
+            "number": 1,
+            "par": 4,
+            "stroke_index": 7
+        },
+        {
+            "course_id": 7,
+            "number": 2,
+            "par": 4,
+            "stroke_index": 3
+        },
+        {
+            "course_id": 7,
+            "number": 3,
+            "par": 3,
+            "stroke_index": 9
+        },
+        {
+            "course_id": 7,
+            "number": 4,
+            "par": 5,
+            "stroke_index": 15
+        },
+        {
+            "course_id": 7,
+            "number": 5,
+            "par": 5,
+            "stroke_index": 17
+        },
+        {
+            "course_id": 7,
+            "number": 6,
+            "par": 4,
+            "stroke_index": 13
+        },
+        {
+            "course_id": 7,
+            "number": 7,
+            "par": 3,
+            "stroke_index": 11
+        },
+        {
+            "course_id": 7,
+            "number": 8,
+            "par": 4,
+            "stroke_index": 1
+        },
+        {
+            "course_id": 7,
+            "number": 9,
+            "par": 4,
+            "stroke_index": 5
+        },
+        {
+            "course_id": 7,
+            "number": 10,
+            "par": 5,
+            "stroke_index": 16
+        },
+        {
+            "course_id": 7,
+            "number": 11,
+            "par": 3,
+            "stroke_index": 14
+        },
+        {
+            "course_id": 7,
+            "number": 12,
+            "par": 4,
+            "stroke_index": 4
+        },
+        {
+            "course_id": 7,
+            "number": 13,
+            "par": 3,
+            "stroke_index": 12
+        },
+        {
+            "course_id": 7,
+            "number": 14,
+            "par": 4,
+            "stroke_index": 2
+        },
+        {
+            "course_id": 7,
+            "number": 15,
+            "par": 4,
+            "stroke_index": 6
+        },
+        {
+            "course_id": 7,
+            "number": 16,
+            "par": 4,
+            "stroke_index": 8
+        },
+        {
+            "course_id": 7,
+            "number": 17,
+            "par": 3,
+            "stroke_index": 10
+        },
+        {
+            "course_id": 7,
+            "number": 18,
+            "par": 5,
+            "stroke_index": 18
+        },
+        {
+            "course_id": 8,
+            "number": 1,
+            "par": 5,
+            "stroke_index": 14
+        },
+        {
+            "course_id": 8,
+            "number": 2,
+            "par": 3,
+            "stroke_index": 6
+        },
+        {
+            "course_id": 8,
+            "number": 3,
+            "par": 4,
+            "stroke_index": 8
+        },
+        {
+            "course_id": 8,
+            "number": 4,
+            "par": 5,
+            "stroke_index": 12
+        },
+        {
+            "course_id": 8,
+            "number": 5,
+            "par": 4,
+            "stroke_index": 4
+        },
+        {
+            "course_id": 8,
+            "number": 6,
+            "par": 5,
+            "stroke_index": 10
+        },
+        {
+            "course_id": 8,
+            "number": 7,
+            "par": 3,
+            "stroke_index": 18
+        },
+        {
+            "course_id": 8,
+            "number": 8,
+            "par": 4,
+            "stroke_index": 2
+        },
+        {
+            "course_id": 8,
+            "number": 9,
+            "par": 4,
+            "stroke_index": 16
+        },
+        {
+            "course_id": 8,
+            "number": 10,
+            "par": 4,
+            "stroke_index": 11
+        },
+        {
+            "course_id": 8,
+            "number": 11,
+            "par": 4,
+            "stroke_index": 1
+        },
+        {
+            "course_id": 8,
+            "number": 12,
+            "par": 4,
+            "stroke_index": 13
+        },
+        {
+            "course_id": 8,
+            "number": 13,
+            "par": 4,
+            "stroke_index": 15
+        },
+        {
+            "course_id": 8,
+            "number": 14,
+            "par": 3,
+            "stroke_index": 7
+        },
+        {
+            "course_id": 8,
+            "number": 15,
+            "par": 4,
+            "stroke_index": 5
+        },
+        {
+            "course_id": 8,
+            "number": 16,
+            "par": 3,
+            "stroke_index": 9
+        },
+        {
+            "course_id": 8,
+            "number": 17,
+            "par": 5,
+            "stroke_index": 17
+        },
+        {
+            "course_id": 8,
+            "number": 18,
+            "par": 4,
+            "stroke_index": 3
+        },
+        {
+            "course_id": 9,
+            "number": 1,
+            "par": 4,
+            "stroke_index": 10
+        },
+        {
+            "course_id": 9,
+            "number": 2,
+            "par": 3,
+            "stroke_index": 18
+        },
+        {
+            "course_id": 9,
+            "number": 3,
+            "par": 4,
+            "stroke_index": 4
+        },
+        {
+            "course_id": 9,
+            "number": 4,
+            "par": 4,
+            "stroke_index": 12
+        },
+        {
+            "course_id": 9,
+            "number": 5,
+            "par": 4,
+            "stroke_index": 6
+        },
+        {
+            "course_id": 9,
+            "number": 6,
+            "par": 4,
+            "stroke_index": 2
+        },
+        {
+            "course_id": 9,
+            "number": 7,
+            "par": 3,
+            "stroke_index": 16
+        },
+        {
+            "course_id": 9,
+            "number": 8,
+            "par": 5,
+            "stroke_index": 14
+        },
+        {
+            "course_id": 9,
+            "number": 9,
+            "par": 4,
+            "stroke_index": 8
+        },
+        {
+            "course_id": 9,
+            "number": 10,
+            "par": 4,
+            "stroke_index": 5
+        },
+        {
+            "course_id": 9,
+            "number": 11,
+            "par": 4,
+            "stroke_index": 1
+        },
+        {
+            "course_id": 9,
+            "number": 12,
+            "par": 4,
+            "stroke_index": 7
+        },
+        {
+            "course_id": 9,
+            "number": 13,
+            "par": 4,
+            "stroke_index": 15
+        },
+        {
+            "course_id": 9,
+            "number": 14,
+            "par": 3,
+            "stroke_index": 13
+        },
+        {
+            "course_id": 9,
+            "number": 15,
+            "par": 4,
+            "stroke_index": 3
+        },
+        {
+            "course_id": 9,
+            "number": 16,
+            "par": 5,
+            "stroke_index": 17
+        },
+        {
+            "course_id": 9,
+            "number": 17,
+            "par": 3,
+            "stroke_index": 11
+        },
+        {
+            "course_id": 9,
+            "number": 18,
+            "par": 5,
+            "stroke_index": 9
+        },
+        {
+            "course_id": 10,
+            "number": 1,
+            "par": 5,
+            "stroke_index": 13
+        },
+        {
+            "course_id": 10,
+            "number": 2,
+            "par": 4,
+            "stroke_index": 3
+        },
+        {
+            "course_id": 10,
+            "number": 3,
+            "par": 3,
+            "stroke_index": 17
+        },
+        {
+            "course_id": 10,
+            "number": 4,
+            "par": 4,
+            "stroke_index": 11
+        },
+        {
+            "course_id": 10,
+            "number": 5,
+            "par": 4,
+            "stroke_index": 5
+        },
+        {
+            "course_id": 10,
+            "number": 6,
+            "par": 4,
+            "stroke_index": 1
+        },
+        {
+            "course_id": 10,
+            "number": 7,
+            "par": 3,
+            "stroke_index": 15
+        },
+        {
+            "course_id": 10,
+            "number": 8,
+            "par": 5,
+            "stroke_index": 9
+        },
+        {
+            "course_id": 10,
+            "number": 9,
+            "par": 4,
+            "stroke_index": 7
+        },
+        {
+            "course_id": 10,
+            "number": 10,
+            "par": 4,
+            "stroke_index": 6
+        },
+        {
+            "course_id": 10,
+            "number": 11,
+            "par": 3,
+            "stroke_index": 12
+        },
+        {
+            "course_id": 10,
+            "number": 12,
+            "par": 4,
+            "stroke_index": 10
+        },
+        {
+            "course_id": 10,
+            "number": 13,
+            "par": 5,
+            "stroke_index": 8
+        },
+        {
+            "course_id": 10,
+            "number": 14,
+            "par": 4,
+            "stroke_index": 18
+        },
+        {
+            "course_id": 10,
+            "number": 15,
+            "par": 4,
+            "stroke_index": 2
+        },
+        {
+            "course_id": 10,
+            "number": 16,
+            "par": 3,
+            "stroke_index": 14
+        },
+        {
+            "course_id": 10,
+            "number": 17,
+            "par": 5,
+            "stroke_index": 16
+        },
+        {
+            "course_id": 10,
+            "number": 18,
+            "par": 4,
+            "stroke_index": 4
+        },
+        {
+            "course_id": 11,
+            "number": 1,
+            "par": 4,
+            "stroke_index": 15
+        },
+        {
+            "course_id": 11,
+            "number": 2,
+            "par": 5,
+            "stroke_index": 9
+        },
+        {
+            "course_id": 11,
+            "number": 3,
+            "par": 4,
+            "stroke_index": 17
+        },
+        {
+            "course_id": 11,
+            "number": 4,
+            "par": 4,
+            "stroke_index": 3
+        },
+        {
+            "course_id": 11,
+            "number": 5,
+            "par": 3,
+            "stroke_index": 11
+        },
+        {
+            "course_id": 11,
+            "number": 6,
+            "par": 4,
+            "stroke_index": 13
+        },
+        {
+            "course_id": 11,
+            "number": 7,
+            "par": 3,
+            "stroke_index": 7
+        },
+        {
+            "course_id": 11,
+            "number": 8,
+            "par": 4,
+            "stroke_index": 5
+        },
+        {
+            "course_id": 11,
+            "number": 9,
+            "par": 4,
+            "stroke_index": 1
+        },
+        {
+            "course_id": 11,
+            "number": 10,
+            "par": 4,
+            "stroke_index": 10
+        },
+        {
+            "course_id": 11,
+            "number": 11,
+            "par": 3,
+            "stroke_index": 18
+        },
+        {
+            "course_id": 11,
+            "number": 12,
+            "par": 4,
+            "stroke_index": 8
+        },
+        {
+            "course_id": 11,
+            "number": 13,
+            "par": 4,
+            "stroke_index": 2
+        },
+        {
+            "course_id": 11,
+            "number": 14,
+            "par": 4,
+            "stroke_index": 14
+        },
+        {
+            "course_id": 11,
+            "number": 15,
+            "par": 4,
+            "stroke_index": 16
+        },
+        {
+            "course_id": 11,
+            "number": 16,
+            "par": 5,
+            "stroke_index": 6
+        },
+        {
+            "course_id": 11,
+            "number": 17,
+            "par": 3,
+            "stroke_index": 12
+        },
+        {
+            "course_id": 11,
+            "number": 18,
+            "par": 4,
+            "stroke_index": 4
+        },
+        {
+            "course_id": 12,
+            "number": 1,
+            "par": 5,
+            "stroke_index": 17
+        },
+        {
+            "course_id": 12,
+            "number": 2,
+            "par": 4,
+            "stroke_index": 11
+        },
+        {
+            "course_id": 12,
+            "number": 3,
+            "par": 4,
+            "stroke_index": 1
+        },
+        {
+            "course_id": 12,
+            "number": 4,
+            "par": 4,
+            "stroke_index": 5
+        },
+        {
+            "course_id": 12,
+            "number": 5,
+            "par": 3,
+            "stroke_index": 15
+        },
+        {
+            "course_id": 12,
+            "number": 6,
+            "par": 5,
+            "stroke_index": 9
+        },
+        {
+            "course_id": 12,
+            "number": 7,
+            "par": 4,
+            "stroke_index": 3
+        },
+        {
+            "course_id": 12,
+            "number": 8,
+            "par": 4,
+            "stroke_index": 13
+        },
+        {
+            "course_id": 12,
+            "number": 9,
+            "par": 3,
+            "stroke_index": 7
+        },
+        {
+            "course_id": 12,
+            "number": 10,
+            "par": 4,
+            "stroke_index": 18
+        },
+        {
+            "course_id": 12,
+            "number": 11,
+            "par": 4,
+            "stroke_index": 4
+        },
+        {
+            "course_id": 12,
+            "number": 12,
+            "par": 4,
+            "stroke_index": 6
+        },
+        {
+            "course_id": 12,
+            "number": 13,
+            "par": 3,
+            "stroke_index": 14
+        },
+        {
+            "course_id": 12,
+            "number": 14,
+            "par": 4,
+            "stroke_index": 10
+        },
+        {
+            "course_id": 12,
+            "number": 15,
+            "par": 3,
+            "stroke_index": 8
+        },
+        {
+            "course_id": 12,
+            "number": 16,
+            "par": 5,
+            "stroke_index": 16
+        },
+        {
+            "course_id": 12,
+            "number": 17,
+            "par": 4,
+            "stroke_index": 2
+        },
+        {
+            "course_id": 12,
+            "number": 18,
+            "par": 4,
+            "stroke_index": 12
+        },
+        {
+            "course_id": 13,
+            "number": 1,
+            "par": 4,
+            "stroke_index": 18
+        },
+        {
+            "course_id": 13,
+            "number": 2,
+            "par": 3,
+            "stroke_index": 14
+        },
+        {
+            "course_id": 13,
+            "number": 3,
+            "par": 5,
+            "stroke_index": 1
+        },
+        {
+            "course_id": 13,
+            "number": 4,
+            "par": 4,
+            "stroke_index": 8
+        },
+        {
+            "course_id": 13,
+            "number": 5,
+            "par": 5,
+            "stroke_index": 15
+        },
+        {
+            "course_id": 13,
+            "number": 6,
+            "par": 4,
+            "stroke_index": 11
+        },
+        {
+            "course_id": 13,
+            "number": 7,
+            "par": 4,
+            "stroke_index": 4
+        },
+        {
+            "course_id": 13,
+            "number": 8,
+            "par": 3,
+            "stroke_index": 6
+        },
+        {
+            "course_id": 13,
+            "number": 9,
+            "par": 4,
+            "stroke_index": 2
+        },
+        {
+            "course_id": 13,
+            "number": 10,
+            "par": 5,
+            "stroke_index": 10
+        },
+        {
+            "course_id": 13,
+            "number": 11,
+            "par": 3,
+            "stroke_index": 13
+        },
+        {
+            "course_id": 13,
+            "number": 12,
+            "par": 4,
+            "stroke_index": 16
+        },
+        {
+            "course_id": 13,
+            "number": 13,
+            "par": 4,
+            "stroke_index": 7
+        },
+        {
+            "course_id": 13,
+            "number": 14,
+            "par": 3,
+            "stroke_index": 12
+        },
+        {
+            "course_id": 13,
+            "number": 15,
+            "par": 5,
+            "stroke_index": 5
+        },
+        {
+            "course_id": 13,
+            "number": 16,
+            "par": 4,
+            "stroke_index": 17
+        },
+        {
+            "course_id": 13,
+            "number": 17,
+            "par": 4,
+            "stroke_index": 3
+        },
+        {
+            "course_id": 13,
+            "number": 18,
+            "par": 4,
+            "stroke_index": 9
+        },
+        {
+            "course_id": 14,
+            "number": 1,
+            "par": 4,
+            "stroke_index": 16
+        },
+        {
+            "course_id": 14,
+            "number": 2,
+            "par": 5,
+            "stroke_index": 4
+        },
+        {
+            "course_id": 14,
+            "number": 3,
+            "par": 3,
+            "stroke_index": 8
+        },
+        {
+            "course_id": 14,
+            "number": 4,
+            "par": 4,
+            "stroke_index": 2
+        },
+        {
+            "course_id": 14,
+            "number": 5,
+            "par": 4,
+            "stroke_index": 18
+        },
+        {
+            "course_id": 14,
+            "number": 6,
+            "par": 5,
+            "stroke_index": 14
+        },
+        {
+            "course_id": 14,
+            "number": 7,
+            "par": 3,
+            "stroke_index": 10
+        },
+        {
+            "course_id": 14,
+            "number": 8,
+            "par": 5,
+            "stroke_index": 6
+        },
+        {
+            "course_id": 14,
+            "number": 9,
+            "par": 3,
+            "stroke_index": 12
+        },
+        {
+            "course_id": 14,
+            "number": 10,
+            "par": 5,
+            "stroke_index": 11
+        },
+        {
+            "course_id": 14,
+            "number": 11,
+            "par": 3,
+            "stroke_index": 15
+        },
+        {
+            "course_id": 14,
+            "number": 12,
+            "par": 4,
+            "stroke_index": 5
+        },
+        {
+            "course_id": 14,
+            "number": 13,
+            "par": 4,
+            "stroke_index": 13
+        },
+        {
+            "course_id": 14,
+            "number": 14,
+            "par": 4,
+            "stroke_index": 1
+        },
+        {
+            "course_id": 14,
+            "number": 15,
+            "par": 4,
+            "stroke_index": 17
+        },
+        {
+            "course_id": 14,
+            "number": 16,
+            "par": 5,
+            "stroke_index": 7
+        },
+        {
+            "course_id": 14,
+            "number": 17,
+            "par": 4,
+            "stroke_index": 3
+        },
+        {
+            "course_id": 14,
+            "number": 18,
+            "par": 3,
+            "stroke_index": 9
+        },
+        {
+            "course_id": 15,
+            "number": 1,
+            "par": 4,
+            "stroke_index": 9
+        },
+        {
+            "course_id": 15,
+            "number": 2,
+            "par": 4,
+            "stroke_index": 11
+        },
+        {
+            "course_id": 15,
+            "number": 3,
+            "par": 3,
+            "stroke_index": 13
+        },
+        {
+            "course_id": 15,
+            "number": 4,
+            "par": 4,
+            "stroke_index": 7
+        },
+        {
+            "course_id": 15,
+            "number": 5,
+            "par": 4,
+            "stroke_index": 5
+        },
+        {
+            "course_id": 15,
+            "number": 6,
+            "par": 5,
+            "stroke_index": 1
+        },
+        {
+            "course_id": 15,
+            "number": 7,
+            "par": 4,
+            "stroke_index": 17
+        },
+        {
+            "course_id": 15,
+            "number": 8,
+            "par": 3,
+            "stroke_index": 15
+        },
+        {
+            "course_id": 15,
+            "number": 9,
+            "par": 5,
+            "stroke_index": 3
+        },
+        {
+            "course_id": 15,
+            "number": 10,
+            "par": 3,
+            "stroke_index": 18
+        },
+        {
+            "course_id": 15,
+            "number": 11,
+            "par": 4,
+            "stroke_index": 10
+        },
+        {
+            "course_id": 15,
+            "number": 12,
+            "par": 3,
+            "stroke_index": 16
+        },
+        {
+            "course_id": 15,
+            "number": 13,
+            "par": 4,
+            "stroke_index": 6
+        },
+        {
+            "course_id": 15,
+            "number": 14,
+            "par": 5,
+            "stroke_index": 2
+        },
+        {
+            "course_id": 15,
+            "number": 15,
+            "par": 4,
+            "stroke_index": 12
+        },
+        {
+            "course_id": 15,
+            "number": 16,
+            "par": 5,
+            "stroke_index": 4
+        },
+        {
+            "course_id": 15,
+            "number": 17,
+            "par": 4,
+            "stroke_index": 14
+        },
+        {
+            "course_id": 15,
+            "number": 18,
+            "par": 4,
+            "stroke_index": 8
+        },
+        {
+            "course_id": 16,
+            "number": 1,
+            "par": 4,
+            "stroke_index": 9
+        },
+        {
+            "course_id": 16,
+            "number": 2,
+            "par": 3,
+            "stroke_index": 11
+        },
+        {
+            "course_id": 16,
+            "number": 3,
+            "par": 4,
+            "stroke_index": 15
+        },
+        {
+            "course_id": 16,
+            "number": 4,
+            "par": 4,
+            "stroke_index": 1
+        },
+        {
+            "course_id": 16,
+            "number": 5,
+            "par": 5,
+            "stroke_index": 13
+        },
+        {
+            "course_id": 16,
+            "number": 6,
+            "par": 5,
+            "stroke_index": 3
+        },
+        {
+            "course_id": 16,
+            "number": 7,
+            "par": 4,
+            "stroke_index": 5
+        },
+        {
+            "course_id": 16,
+            "number": 8,
+            "par": 4,
+            "stroke_index": 7
+        },
+        {
+            "course_id": 16,
+            "number": 9,
+            "par": 3,
+            "stroke_index": 17
+        },
+        {
+            "course_id": 16,
+            "number": 10,
+            "par": 4,
+            "stroke_index": 4
+        },
+        {
+            "course_id": 16,
+            "number": 11,
+            "par": 3,
+            "stroke_index": 8
+        },
+        {
+            "course_id": 16,
+            "number": 12,
+            "par": 4,
+            "stroke_index": 2
+        },
+        {
+            "course_id": 16,
+            "number": 13,
+            "par": 4,
+            "stroke_index": 14
+        },
+        {
+            "course_id": 16,
+            "number": 14,
+            "par": 4,
+            "stroke_index": 6
+        },
+        {
+            "course_id": 16,
+            "number": 15,
+            "par": 5,
+            "stroke_index": 16
+        },
+        {
+            "course_id": 16,
+            "number": 16,
+            "par": 3,
+            "stroke_index": 12
+        },
+        {
+            "course_id": 16,
+            "number": 17,
+            "par": 5,
+            "stroke_index": 18
+        },
+        {
+            "course_id": 16,
+            "number": 18,
+            "par": 4,
+            "stroke_index": 10
+        },
+        {
+            "course_id": 17,
+            "number": 1,
+            "par": 4,
+            "stroke_index": 2
+        },
+        {
+            "course_id": 17,
+            "number": 2,
+            "par": 4,
+            "stroke_index": 4
+        },
+        {
+            "course_id": 17,
+            "number": 3,
+            "par": 3,
+            "stroke_index": 18
+        },
+        {
+            "course_id": 17,
+            "number": 4,
+            "par": 5,
+            "stroke_index": 14
+        },
+        {
+            "course_id": 17,
+            "number": 5,
+            "par": 3,
+            "stroke_index": 10
+        },
+        {
+            "course_id": 17,
+            "number": 6,
+            "par": 5,
+            "stroke_index": 16
+        },
+        {
+            "course_id": 17,
+            "number": 7,
+            "par": 4,
+            "stroke_index": 12
+        },
+        {
+            "course_id": 17,
+            "number": 8,
+            "par": 4,
+            "stroke_index": 6
+        },
+        {
+            "course_id": 17,
+            "number": 9,
+            "par": 4,
+            "stroke_index": 8
+        },
+        {
+            "course_id": 17,
+            "number": 10,
+            "par": 4,
+            "stroke_index": 13
+        },
+        {
+            "course_id": 17,
+            "number": 11,
+            "par": 4,
+            "stroke_index": 7
+        },
+        {
+            "course_id": 17,
+            "number": 12,
+            "par": 4,
+            "stroke_index": 3
+        },
+        {
+            "course_id": 17,
+            "number": 13,
+            "par": 5,
+            "stroke_index": 17
+        },
+        {
+            "course_id": 17,
+            "number": 14,
+            "par": 4,
+            "stroke_index": 1
+        },
+        {
+            "course_id": 17,
+            "number": 15,
+            "par": 4,
+            "stroke_index": 5
+        },
+        {
+            "course_id": 17,
+            "number": 16,
+            "par": 3,
+            "stroke_index": 15
+        },
+        {
+            "course_id": 17,
+            "number": 17,
+            "par": 5,
+            "stroke_index": 9
+        },
+        {
+            "course_id": 17,
+            "number": 18,
+            "par": 3,
+            "stroke_index": 11
+        },
+        {
+            "course_id": 18,
+            "number": 1,
+            "par": 4,
+            "stroke_index": 3
+        },
+        {
+            "course_id": 18,
+            "number": 2,
+            "par": 5,
+            "stroke_index": 13
+        },
+        {
+            "course_id": 18,
+            "number": 3,
+            "par": 3,
+            "stroke_index": 17
+        },
+        {
+            "course_id": 18,
+            "number": 4,
+            "par": 4,
+            "stroke_index": 9
+        },
+        {
+            "course_id": 18,
+            "number": 5,
+            "par": 3,
+            "stroke_index": 7
+        },
+        {
+            "course_id": 18,
+            "number": 6,
+            "par": 5,
+            "stroke_index": 5
+        },
+        {
+            "course_id": 18,
+            "number": 7,
+            "par": 4,
+            "stroke_index": 11
+        },
+        {
+            "course_id": 18,
+            "number": 8,
+            "par": 4,
+            "stroke_index": 1
+        },
+        {
+            "course_id": 18,
+            "number": 9,
+            "par": 4,
+            "stroke_index": 15
+        },
+        {
+            "course_id": 18,
+            "number": 10,
+            "par": 4,
+            "stroke_index": 6
+        },
+        {
+            "course_id": 18,
+            "number": 11,
+            "par": 4,
+            "stroke_index": 8
+        },
+        {
+            "course_id": 18,
+            "number": 12,
+            "par": 5,
+            "stroke_index": 16
+        },
+        {
+            "course_id": 18,
+            "number": 13,
+            "par": 3,
+            "stroke_index": 14
+        },
+        {
+            "course_id": 18,
+            "number": 14,
+            "par": 4,
+            "stroke_index": 12
+        },
+        {
+            "course_id": 18,
+            "number": 15,
+            "par": 4,
+            "stroke_index": 4
+        },
+        {
+            "course_id": 18,
+            "number": 16,
+            "par": 3,
+            "stroke_index": 18
+        },
+        {
+            "course_id": 18,
+            "number": 17,
+            "par": 5,
+            "stroke_index": 2
+        },
+        {
+            "course_id": 18,
+            "number": 18,
+            "par": 4,
+            "stroke_index": 10
+        },
+        {
+            "course_id": 19,
+            "number": 1,
+            "par": 4,
+            "stroke_index": 6
+        },
+        {
+            "course_id": 19,
+            "number": 2,
+            "par": 3,
+            "stroke_index": 4
+        },
+        {
+            "course_id": 19,
+            "number": 3,
+            "par": 3,
+            "stroke_index": 18
+        },
+        {
+            "course_id": 19,
+            "number": 4,
+            "par": 5,
+            "stroke_index": 14
+        },
+        {
+            "course_id": 19,
+            "number": 5,
+            "par": 4,
+            "stroke_index": 16
+        },
+        {
+            "course_id": 19,
+            "number": 6,
+            "par": 3,
+            "stroke_index": 2
+        },
+        {
+            "course_id": 19,
+            "number": 7,
+            "par": 3,
+            "stroke_index": 12
+        },
+        {
+            "course_id": 19,
+            "number": 8,
+            "par": 4,
+            "stroke_index": 8
+        },
+        {
+            "course_id": 19,
+            "number": 9,
+            "par": 5,
+            "stroke_index": 10
+        },
+        {
+            "course_id": 19,
+            "number": 10,
+            "par": 3,
+            "stroke_index": 13
+        },
+        {
+            "course_id": 19,
+            "number": 11,
+            "par": 4,
+            "stroke_index": 5
+        },
+        {
+            "course_id": 19,
+            "number": 12,
+            "par": 4,
+            "stroke_index": 1
+        },
+        {
+            "course_id": 19,
+            "number": 13,
+            "par": 3,
+            "stroke_index": 15
+        },
+        {
+            "course_id": 19,
+            "number": 14,
+            "par": 4,
+            "stroke_index": 17
+        },
+        {
+            "course_id": 19,
+            "number": 15,
+            "par": 5,
+            "stroke_index": 9
+        },
+        {
+            "course_id": 19,
+            "number": 16,
+            "par": 4,
+            "stroke_index": 7
+        },
+        {
+            "course_id": 19,
+            "number": 17,
+            "par": 4,
+            "stroke_index": 3
+        },
+        {
+            "course_id": 19,
+            "number": 18,
+            "par": 4,
+            "stroke_index": 11
+        },
+        {
+            "course_id": 20,
+            "number": 1,
+            "par": 4,
+            "stroke_index": 8
+        },
+        {
+            "course_id": 20,
+            "number": 2,
+            "par": 5,
+            "stroke_index": 14
+        },
+        {
+            "course_id": 20,
+            "number": 3,
+            "par": 4,
+            "stroke_index": 4
+        },
+        {
+            "course_id": 20,
+            "number": 4,
+            "par": 5,
+            "stroke_index": 18
+        },
+        {
+            "course_id": 20,
+            "number": 5,
+            "par": 3,
+            "stroke_index": 16
+        },
+        {
+            "course_id": 20,
+            "number": 6,
+            "par": 4,
+            "stroke_index": 2
+        },
+        {
+            "course_id": 20,
+            "number": 7,
+            "par": 4,
+            "stroke_index": 6
+        },
+        {
+            "course_id": 20,
+            "number": 8,
+            "par": 3,
+            "stroke_index": 12
+        },
+        {
+            "course_id": 20,
+            "number": 9,
+            "par": 4,
+            "stroke_index": 10
+        },
+        {
+            "course_id": 20,
+            "number": 10,
+            "par": 4,
+            "stroke_index": 3
+        },
+        {
+            "course_id": 20,
+            "number": 11,
+            "par": 3,
+            "stroke_index": 13
+        },
+        {
+            "course_id": 20,
+            "number": 12,
+            "par": 5,
+            "stroke_index": 9
+        },
+        {
+            "course_id": 20,
+            "number": 13,
+            "par": 4,
+            "stroke_index": 17
+        },
+        {
+            "course_id": 20,
+            "number": 14,
+            "par": 4,
+            "stroke_index": 5
+        },
+        {
+            "course_id": 20,
+            "number": 15,
+            "par": 4,
+            "stroke_index": 1
+        },
+        {
+            "course_id": 20,
+            "number": 16,
+            "par": 3,
+            "stroke_index": 11
+        },
+        {
+            "course_id": 20,
+            "number": 17,
+            "par": 4,
+            "stroke_index": 7
+        },
+        {
+            "course_id": 20,
+            "number": 18,
+            "par": 5,
+            "stroke_index": 15
+        },
+        {
+            "course_id": 21,
+            "number": 1,
+            "par": 4,
+            "stroke_index": 3
+        },
+        {
+            "course_id": 21,
+            "number": 2,
+            "par": 3,
+            "stroke_index": 9
+        },
+        {
+            "course_id": 21,
+            "number": 3,
+            "par": 5,
+            "stroke_index": 7
+        },
+        {
+            "course_id": 21,
+            "number": 4,
+            "par": 4,
+            "stroke_index": 17
+        },
+        {
+            "course_id": 21,
+            "number": 5,
+            "par": 4,
+            "stroke_index": 5
+        },
+        {
+            "course_id": 21,
+            "number": 6,
+            "par": 4,
+            "stroke_index": 11
+        },
+        {
+            "course_id": 21,
+            "number": 7,
+            "par": 5,
+            "stroke_index": 13
+        },
+        {
+            "course_id": 21,
+            "number": 8,
+            "par": 4,
+            "stroke_index": 1
+        },
+        {
+            "course_id": 21,
+            "number": 9,
+            "par": 3,
+            "stroke_index": 15
+        },
+        {
+            "course_id": 21,
+            "number": 10,
+            "par": 4,
+            "stroke_index": 4
+        },
+        {
+            "course_id": 21,
+            "number": 11,
+            "par": 3,
+            "stroke_index": 6
+        },
+        {
+            "course_id": 21,
+            "number": 12,
+            "par": 4,
+            "stroke_index": 2
+        },
+        {
+            "course_id": 21,
+            "number": 13,
+            "par": 4,
+            "stroke_index": 14
+        },
+        {
+            "course_id": 21,
+            "number": 14,
+            "par": 4,
+            "stroke_index": 12
+        },
+        {
+            "course_id": 21,
+            "number": 15,
+            "par": 3,
+            "stroke_index": 16
+        },
+        {
+            "course_id": 21,
+            "number": 16,
+            "par": 4,
+            "stroke_index": 8
+        },
+        {
+            "course_id": 21,
+            "number": 17,
+            "par": 5,
+            "stroke_index": 18
+        },
+        {
+            "course_id": 21,
+            "number": 18,
+            "par": 5,
+            "stroke_index": 10
+        },
+        {
+            "course_id": 22,
+            "number": 1,
+            "par": 4,
+            "stroke_index": 12
+        },
+        {
+            "course_id": 22,
+            "number": 2,
+            "par": 4,
+            "stroke_index": 13
+        },
+        {
+            "course_id": 22,
+            "number": 3,
+            "par": 3,
+            "stroke_index": 4
+        },
+        {
+            "course_id": 22,
+            "number": 4,
+            "par": 5,
+            "stroke_index": 17
+        },
+        {
+            "course_id": 22,
+            "number": 5,
+            "par": 4,
+            "stroke_index": 9
+        },
+        {
+            "course_id": 22,
+            "number": 6,
+            "par": 3,
+            "stroke_index": 10
+        },
+        {
+            "course_id": 22,
+            "number": 7,
+            "par": 4,
+            "stroke_index": 2
+        },
+        {
+            "course_id": 22,
+            "number": 8,
+            "par": 4,
+            "stroke_index": 5
+        },
+        {
+            "course_id": 22,
+            "number": 9,
+            "par": 3,
+            "stroke_index": 14
+        },
+        {
+            "course_id": 22,
+            "number": 10,
+            "par": 4,
+            "stroke_index": 3
+        },
+        {
+            "course_id": 22,
+            "number": 11,
+            "par": 4,
+            "stroke_index": 7
+        },
+        {
+            "course_id": 22,
+            "number": 12,
+            "par": 4,
+            "stroke_index": 1
+        },
+        {
+            "course_id": 22,
+            "number": 13,
+            "par": 4,
+            "stroke_index": 6
+        },
+        {
+            "course_id": 22,
+            "number": 14,
+            "par": 4,
+            "stroke_index": 16
+        },
+        {
+            "course_id": 22,
+            "number": 15,
+            "par": 4,
+            "stroke_index": 8
+        },
+        {
+            "course_id": 22,
+            "number": 16,
+            "par": 3,
+            "stroke_index": 11
+        },
+        {
+            "course_id": 22,
+            "number": 17,
+            "par": 4,
+            "stroke_index": 18
+        },
+        {
+            "course_id": 22,
+            "number": 18,
+            "par": 4,
+            "stroke_index": 15
+        },
+        {
+            "course_id": 23,
+            "number": 1,
+            "par": 4,
+            "stroke_index": 4
+        },
+        {
+            "course_id": 23,
+            "number": 2,
+            "par": 4,
+            "stroke_index": 15
+        },
+        {
+            "course_id": 23,
+            "number": 3,
+            "par": 3,
+            "stroke_index": 18
+        },
+        {
+            "course_id": 23,
+            "number": 4,
+            "par": 4,
+            "stroke_index": 9
+        },
+        {
+            "course_id": 23,
+            "number": 5,
+            "par": 5,
+            "stroke_index": 14
+        },
+        {
+            "course_id": 23,
+            "number": 6,
+            "par": 3,
+            "stroke_index": 12
+        },
+        {
+            "course_id": 23,
+            "number": 7,
+            "par": 4,
+            "stroke_index": 1
+        },
+        {
+            "course_id": 23,
+            "number": 8,
+            "par": 4,
+            "stroke_index": 7
+        },
+        {
+            "course_id": 23,
+            "number": 9,
+            "par": 4,
+            "stroke_index": 6
+        },
+        {
+            "course_id": 23,
+            "number": 10,
+            "par": 4,
+            "stroke_index": 11
+        },
+        {
+            "course_id": 23,
+            "number": 11,
+            "par": 4,
+            "stroke_index": 5
+        },
+        {
+            "course_id": 23,
+            "number": 12,
+            "par": 4,
+            "stroke_index": 8
+        },
+        {
+            "course_id": 23,
+            "number": 13,
+            "par": 3,
+            "stroke_index": 16
+        },
+        {
+            "course_id": 23,
+            "number": 14,
+            "par": 4,
+            "stroke_index": 3
+        },
+        {
+            "course_id": 23,
+            "number": 15,
+            "par": 4,
+            "stroke_index": 10
+        },
+        {
+            "course_id": 23,
+            "number": 16,
+            "par": 4,
+            "stroke_index": 2
+        },
+        {
+            "course_id": 23,
+            "number": 17,
+            "par": 3,
+            "stroke_index": 17
+        },
+        {
+            "course_id": 23,
+            "number": 18,
+            "par": 5,
+            "stroke_index": 13
+        },
+        {
+            "course_id": 24,
+            "number": 1,
+            "par": 5,
+            "stroke_index": 12
+        },
+        {
+            "course_id": 24,
+            "number": 2,
+            "par": 3,
+            "stroke_index": 16
+        },
+        {
+            "course_id": 24,
+            "number": 3,
+            "par": 4,
+            "stroke_index": 4
+        },
+        {
+            "course_id": 24,
+            "number": 4,
+            "par": 4,
+            "stroke_index": 2
+        },
+        {
+            "course_id": 24,
+            "number": 5,
+            "par": 4,
+            "stroke_index": 14
+        },
+        {
+            "course_id": 24,
+            "number": 6,
+            "par": 3,
+            "stroke_index": 10
+        },
+        {
+            "course_id": 24,
+            "number": 7,
+            "par": 4,
+            "stroke_index": 18
+        },
+        {
+            "course_id": 24,
+            "number": 8,
+            "par": 4,
+            "stroke_index": 8
+        },
+        {
+            "course_id": 24,
+            "number": 9,
+            "par": 5,
+            "stroke_index": 6
+        },
+        {
+            "course_id": 24,
+            "number": 10,
+            "par": 4,
+            "stroke_index": 1
+        },
+        {
+            "course_id": 24,
+            "number": 11,
+            "par": 3,
+            "stroke_index": 17
+        },
+        {
+            "course_id": 24,
+            "number": 12,
+            "par": 4,
+            "stroke_index": 7
+        },
+        {
+            "course_id": 24,
+            "number": 13,
+            "par": 5,
+            "stroke_index": 15
+        },
+        {
+            "course_id": 24,
+            "number": 14,
+            "par": 4,
+            "stroke_index": 9
+        },
+        {
+            "course_id": 24,
+            "number": 15,
+            "par": 5,
+            "stroke_index": 13
+        },
+        {
+            "course_id": 24,
+            "number": 16,
+            "par": 3,
+            "stroke_index": 11
+        },
+        {
+            "course_id": 24,
+            "number": 17,
+            "par": 4,
+            "stroke_index": 5
+        },
+        {
+            "course_id": 24,
+            "number": 18,
+            "par": 4,
+            "stroke_index": 3
+        },
+        {
+            "course_id": 25,
+            "number": 1,
+            "par": 4,
+            "stroke_index": 12
+        },
+        {
+            "course_id": 25,
+            "number": 2,
+            "par": 4,
+            "stroke_index": 4
+        },
+        {
+            "course_id": 25,
+            "number": 3,
+            "par": 3,
+            "stroke_index": 6
+        },
+        {
+            "course_id": 25,
+            "number": 4,
+            "par": 4,
+            "stroke_index": 2
+        },
+        {
+            "course_id": 25,
+            "number": 5,
+            "par": 5,
+            "stroke_index": 18
+        },
+        {
+            "course_id": 25,
+            "number": 6,
+            "par": 3,
+            "stroke_index": 16
+        },
+        {
+            "course_id": 25,
+            "number": 7,
+            "par": 4,
+            "stroke_index": 8
+        },
+        {
+            "course_id": 25,
+            "number": 8,
+            "par": 5,
+            "stroke_index": 14
+        },
+        {
+            "course_id": 25,
+            "number": 9,
+            "par": 4,
+            "stroke_index": 10
+        },
+        {
+            "course_id": 25,
+            "number": 10,
+            "par": 5,
+            "stroke_index": 7
+        },
+        {
+            "course_id": 25,
+            "number": 11,
+            "par": 3,
+            "stroke_index": 17
+        },
+        {
+            "course_id": 25,
+            "number": 12,
+            "par": 4,
+            "stroke_index": 9
+        },
+        {
+            "course_id": 25,
+            "number": 13,
+            "par": 4,
+            "stroke_index": 1
+        },
+        {
+            "course_id": 25,
+            "number": 14,
+            "par": 3,
+            "stroke_index": 15
+        },
+        {
+            "course_id": 25,
+            "number": 15,
+            "par": 4,
+            "stroke_index": 13
+        },
+        {
+            "course_id": 25,
+            "number": 16,
+            "par": 4,
+            "stroke_index": 5
+        },
+        {
+            "course_id": 25,
+            "number": 17,
+            "par": 5,
+            "stroke_index": 11
+        },
+        {
+            "course_id": 25,
+            "number": 18,
+            "par": 4,
+            "stroke_index": 3
+        },
+        {
+            "course_id": 26,
+            "number": 1,
+            "par": 3,
+            "stroke_index": 13
+        },
+        {
+            "course_id": 26,
+            "number": 2,
+            "par": 4,
+            "stroke_index": 5
+        },
+        {
+            "course_id": 26,
+            "number": 3,
+            "par": 5,
+            "stroke_index": 11
+        },
+        {
+            "course_id": 26,
+            "number": 4,
+            "par": 4,
+            "stroke_index": 15
+        },
+        {
+            "course_id": 26,
+            "number": 5,
+            "par": 5,
+            "stroke_index": 9
+        },
+        {
+            "course_id": 26,
+            "number": 6,
+            "par": 4,
+            "stroke_index": 7
+        },
+        {
+            "course_id": 26,
+            "number": 7,
+            "par": 4,
+            "stroke_index": 1
+        },
+        {
+            "course_id": 26,
+            "number": 8,
+            "par": 4,
+            "stroke_index": 3
+        },
+        {
+            "course_id": 26,
+            "number": 9,
+            "par": 3,
+            "stroke_index": 17
+        },
+        {
+            "course_id": 26,
+            "number": 10,
+            "par": 3,
+            "stroke_index": 14
+        },
+        {
+            "course_id": 26,
+            "number": 11,
+            "par": 4,
+            "stroke_index": 6
+        },
+        {
+            "course_id": 26,
+            "number": 12,
+            "par": 5,
+            "stroke_index": 12
+        },
+        {
+            "course_id": 26,
+            "number": 13,
+            "par": 4,
+            "stroke_index": 16
+        },
+        {
+            "course_id": 26,
+            "number": 14,
+            "par": 5,
+            "stroke_index": 10
+        },
+        {
+            "course_id": 26,
+            "number": 15,
+            "par": 4,
+            "stroke_index": 8
+        },
+        {
+            "course_id": 26,
+            "number": 16,
+            "par": 4,
+            "stroke_index": 2
+        },
+        {
+            "course_id": 26,
+            "number": 17,
+            "par": 4,
+            "stroke_index": 4
+        },
+        {
+            "course_id": 26,
+            "number": 18,
+            "par": 3,
+            "stroke_index": 18
+        },
+        {
+            "course_id": 27,
+            "number": 1,
+            "par": 4,
+            "stroke_index": 6
+        },
+        {
+            "course_id": 27,
+            "number": 2,
+            "par": 5,
+            "stroke_index": 18
+        },
+        {
+            "course_id": 27,
+            "number": 3,
+            "par": 4,
+            "stroke_index": 10
+        },
+        {
+            "course_id": 27,
+            "number": 4,
+            "par": 3,
+            "stroke_index": 14
+        },
+        {
+            "course_id": 27,
+            "number": 5,
+            "par": 4,
+            "stroke_index": 2
+        },
+        {
+            "course_id": 27,
+            "number": 6,
+            "par": 5,
+            "stroke_index": 8
+        },
+        {
+            "course_id": 27,
+            "number": 7,
+            "par": 3,
+            "stroke_index": 16
+        },
+        {
+            "course_id": 27,
+            "number": 8,
+            "par": 4,
+            "stroke_index": 4
+        },
+        {
+            "course_id": 27,
+            "number": 9,
+            "par": 4,
+            "stroke_index": 12
+        },
+        {
+            "course_id": 27,
+            "number": 10,
+            "par": 4,
+            "stroke_index": 9
+        },
+        {
+            "course_id": 27,
+            "number": 11,
+            "par": 3,
+            "stroke_index": 11
+        },
+        {
+            "course_id": 27,
+            "number": 12,
+            "par": 4,
+            "stroke_index": 5
+        },
+        {
+            "course_id": 27,
+            "number": 13,
+            "par": 4,
+            "stroke_index": 1
+        },
+        {
+            "course_id": 27,
+            "number": 14,
+            "par": 5,
+            "stroke_index": 15
+        },
+        {
+            "course_id": 27,
+            "number": 15,
+            "par": 4,
+            "stroke_index": 3
+        },
+        {
+            "course_id": 27,
+            "number": 16,
+            "par": 5,
+            "stroke_index": 17
+        },
+        {
+            "course_id": 27,
+            "number": 17,
+            "par": 3,
+            "stroke_index": 13
+        },
+        {
+            "course_id": 27,
+            "number": 18,
+            "par": 4,
+            "stroke_index": 7
+        },
+        {
+            "course_id": 28,
+            "number": 1,
+            "par": 4,
+            "stroke_index": 13
+        },
+        {
+            "course_id": 28,
+            "number": 2,
+            "par": 5,
+            "stroke_index": 5
+        },
+        {
+            "course_id": 28,
+            "number": 3,
+            "par": 4,
+            "stroke_index": 11
+        },
+        {
+            "course_id": 28,
+            "number": 4,
+            "par": 3,
+            "stroke_index": 15
+        },
+        {
+            "course_id": 28,
+            "number": 5,
+            "par": 4,
+            "stroke_index": 9
+        },
+        {
+            "course_id": 28,
+            "number": 6,
+            "par": 3,
+            "stroke_index": 7
+        },
+        {
+            "course_id": 28,
+            "number": 7,
+            "par": 4,
+            "stroke_index": 1
+        },
+        {
+            "course_id": 28,
+            "number": 8,
+            "par": 5,
+            "stroke_index": 3
+        },
+        {
+            "course_id": 28,
+            "number": 9,
+            "par": 4,
+            "stroke_index": 17
+        },
+        {
+            "course_id": 28,
+            "number": 10,
+            "par": 3,
+            "stroke_index": 14
+        },
+        {
+            "course_id": 28,
+            "number": 11,
+            "par": 4,
+            "stroke_index": 6
+        },
+        {
+            "course_id": 28,
+            "number": 12,
+            "par": 5,
+            "stroke_index": 12
+        },
+        {
+            "course_id": 28,
+            "number": 13,
+            "par": 4,
+            "stroke_index": 16
+        },
+        {
+            "course_id": 28,
+            "number": 14,
+            "par": 5,
+            "stroke_index": 10
+        },
+        {
+            "course_id": 28,
+            "number": 15,
+            "par": 4,
+            "stroke_index": 8
+        },
+        {
+            "course_id": 28,
+            "number": 16,
+            "par": 4,
+            "stroke_index": 2
+        },
+        {
+            "course_id": 28,
+            "number": 17,
+            "par": 4,
+            "stroke_index": 4
+        },
+        {
+            "course_id": 28,
+            "number": 18,
+            "par": 3,
+            "stroke_index": 18
+        }
+    ],
+    "competitions": [
+        {
+            "name": "Chopper 2010",
+            "date": "2010-10-02",
+            "course_id": 1,
+            "type": "chopper",
+            "scorer": "Stableford"
+        },
+        {
+            "name": "Chopper I 2011",
+            "date": "2011-07-09",
+            "course_id": 2,
+            "type": "chopper",
+            "scorer": "Stableford"
+        },
+        {
+            "name": "Chopper II 2011",
+            "date": "2011-10-01",
+            "course_id": 3,
+            "type": "chopper",
+            "scorer": "Stableford"
+        },
+        {
+            "name": "Chopper 2012",
+            "date": "2012-06-09",
+            "course_id": 4,
+            "type": "chopper",
+            "scorer": "Stableford"
+        },
+        {
+            "name": "Chopper 2013",
+            "date": "2013-04-06",
+            "course_id": 5,
+            "type": "chopper",
+            "scorer": "Stableford"
+        },
+        {
+            "name": "Chopper 2014",
+            "date": "2014-07-05",
+            "course_id": 6,
+            "type": "chopper",
+            "scorer": "Stableford"
+        },
+        {
+            "name": "ChopSoc 2015",
+            "date": "2015-07-03",
+            "course_id": 7,
+            "type": "chopsoc",
+            "scorer": "Stableford"
+        },
+        {
+            "name": "Chopper 2015",
+            "date": "2015-07-04",
+            "course_id": 8,
+            "type": "chopper",
+            "scorer": "Stableford"
+        },
+        {
+            "name": "ChopSoc II 2015",
+            "date": "2015-10-03",
+            "course_id": 9,
+            "type": "chopsoc",
+            "scorer": "Stableford"
+        },
+        {
+            "name": "ChopSoc I 2016",
+            "date": "2016-04-09",
+            "course_id": 10,
+            "type": "chopsoc",
+            "scorer": "Stableford"
+        },
+        {
+            "name": "Chopper 2016",
+            "date": "2016-07-02",
+            "course_id": 11,
+            "type": "chopper",
+            "scorer": "Stableford"
+        },
+        {
+            "name": "ChopSoc II 2016",
+            "date": "2016-11-12",
+            "course_id": 12,
+            "type": "chopsoc",
+            "scorer": "Stableford"
+        },
+        {
+            "name": "ChopSoc I 2017",
+            "date": "2017-05-13",
+            "course_id": 13,
+            "type": "chopsoc",
+            "scorer": "Stableford"
+        },
+        {
+            "name": "ChopSoc II 2017",
+            "date": "2017-06-30",
+            "course_id": 14,
+            "type": "chopsoc",
+            "scorer": "Stableford"
+        },
+        {
+            "name": "Chopper 2017",
+            "date": "2017-07-01",
+            "course_id": 15,
+            "type": "chopper",
+            "scorer": "Stableford"
+        },
+        {
+            "name": "ChopSoc III 2017",
+            "date": "2017-10-07",
+            "course_id": 16,
+            "type": "chopsoc",
+            "scorer": "Stableford"
+        },
+        {
+            "name": "ChopSoc I 2018",
+            "date": "2018-01-13",
+            "course_id": 17,
+            "type": "chopsoc",
+            "scorer": "Stableford"
+        },
+        {
+            "name": "ChopSoc II 2018",
+            "date": "2018-04-28",
+            "course_id": 18,
+            "type": "chopsoc",
+            "scorer": "Stableford"
+        },
+        {
+            "name": "ChopSoc III 2018",
+            "date": "2018-05-25",
+            "course_id": 19,
+            "type": "chopsoc",
+            "scorer": "Stableford"
+        },
+        {
+            "name": "ChopSoc IV 2018",
+            "date": "2018-06-29",
+            "course_id": 20,
+            "type": "chopsoc",
+            "scorer": "Stableford"
+        },
+        {
+            "name": "Chopper 2018",
+            "date": "2018-06-30",
+            "course_id": 21,
+            "type": "chopper",
+            "scorer": "Stableford"
+        },
+        {
+            "name": "ChopSoc V 2018",
+            "date": "2018-10-06",
+            "course_id": 22,
+            "type": "chopsoc",
+            "scorer": "Stableford"
+        },
+        {
+            "name": "ChopSoc VI 2018",
+            "date": "2018-12-16",
+            "course_id": 23,
+            "type": "chopsoc",
+            "scorer": "Stableford"
+        },
+        {
+            "name": "ChopSoc I 2019",
+            "date": "2019-06-21",
+            "course_id": 24,
+            "type": "chopsoc",
+            "scorer": "Stableford"
+        },
+        {
+            "name": "Chopper 2019",
+            "date": "2018-07-01",
+            "course_id": 25,
+            "type": "chopper",
+            "scorer": "Stableford"
+        },
+        {
+            "name": "ChopSoc II 2019",
+            "date": "2019-10-12",
+            "course_id": 26,
+            "type": "chopsoc",
+            "scorer": "Stableford"
+        },
+        {
+            "name": "Chopper 2010",
+            "date": "2010-10-02",
+            "course_id": 1,
+            "type": "chopper",
+            "scorer": "Stableford"
+        },
+        {
+            "name": "Chopper I 2011",
+            "date": "2011-07-09",
+            "course_id": 11,
+            "type": "chopper",
+            "scorer": "Stableford"
+        },
+        {
+            "name": "Chopper II 2011",
+            "date": "2011-10-01",
+            "course_id": 12,
+            "type": "chopper",
+            "scorer": "Stableford"
+        },
+        {
+            "name": "Chopper 2012",
+            "date": "2012-06-09",
+            "course_id": 13,
+            "type": "chopper",
+            "scorer": "Stableford"
+        },
+        {
+            "name": "Chopper 2013",
+            "date": "2013-04-06",
+            "course_id": 15,
+            "type": "chopper",
+            "scorer": "Stableford"
+        },
+        {
+            "name": "Chopper 2014",
+            "date": "2014-07-05",
+            "course_id": 6,
+            "type": "chopper",
+            "scorer": "Stableford"
+        },
+        {
+            "name": "ChopSoc 2015",
+            "date": "2015-07-03",
+            "course_id": 19,
+            "type": "chopsoc",
+            "scorer": "Stableford"
+        },
+        {
+            "name": "Chopper 2015",
+            "date": "2015-07-04",
+            "course_id": 20,
+            "type": "chopper",
+            "scorer": "Stableford"
+        },
+        {
+            "name": "ChopSoc II 2015",
+            "date": "2015-10-03",
+            "course_id": 17,
+            "type": "chopsoc",
+            "scorer": "Stableford"
+        },
+        {
+            "name": "ChopSoc I 2016",
+            "date": "2016-04-09",
+            "course_id": 3,
+            "type": "chopsoc",
+            "scorer": "Stableford"
+        },
+        {
+            "name": "Chopper 2016",
+            "date": "2016-07-02",
+            "course_id": 8,
+            "type": "chopper",
+            "scorer": "Stableford"
+        },
+        {
+            "name": "ChopSoc II 2016",
+            "date": "2016-11-12",
+            "course_id": 4,
+            "type": "chopsoc",
+            "scorer": "Stableford"
+        },
+        {
+            "name": "ChopSoc I 2017",
+            "date": "2017-05-13",
+            "course_id": 24,
+            "type": "chopsoc",
+            "scorer": "Stableford"
+        },
+        {
+            "name": "ChopSoc II 2017",
+            "date": "2017-06-30",
+            "course_id": 23,
+            "type": "chopsoc",
+            "scorer": "Stableford"
+        },
+        {
+            "name": "Chopper 2017",
+            "date": "2017-07-01",
+            "course_id": 25,
+            "type": "chopper",
+            "scorer": "Stableford"
+        },
+        {
+            "name": "ChopSoc III 2017",
+            "date": "2017-10-07",
+            "course_id": 21,
+            "type": "chopsoc",
+            "scorer": "Stableford"
+        },
+        {
+            "name": "ChopSoc I 2018",
+            "date": "2018-01-13",
+            "course_id": 18,
+            "type": "chopsoc",
+            "scorer": "Stableford"
+        },
+        {
+            "name": "ChopSoc II 2018",
+            "date": "2018-04-28",
+            "course_id": 27,
+            "type": "chopsoc",
+            "scorer": "Stableford"
+        },
+        {
+            "name": "ChopSoc III 2018",
+            "date": "2018-05-25",
+            "course_id": 26,
+            "type": "chopsoc",
+            "scorer": "Stableford"
+        },
+        {
+            "name": "ChopSoc IV 2018",
+            "date": "2018-06-29",
+            "course_id": 2,
+            "type": "chopsoc",
+            "scorer": "Stableford"
+        },
+        {
+            "name": "Chopper 2018",
+            "date": "2018-06-30",
+            "course_id": 7,
+            "type": "chopper",
+            "scorer": "Stableford"
+        },
+        {
+            "name": "ChopSoc V 2018",
+            "date": "2018-10-06",
+            "course_id": 22,
+            "type": "chopsoc",
+            "scorer": "Stableford"
+        },
+        {
+            "name": "ChopSoc VI 2018",
+            "date": "2018-12-16",
+            "course_id": 5,
+            "type": "chopsoc",
+            "scorer": "Stableford"
+        },
+        {
+            "name": "ChopSoc I 2019",
+            "date": "2019-06-21",
+            "course_id": 9,
+            "type": "chopsoc",
+            "scorer": "Stableford"
+        },
+        {
+            "name": "Chopper 2019",
+            "date": "2018-07-01",
+            "course_id": 10,
+            "type": "chopper",
+            "scorer": "Stableford"
+        },
+        {
+            "name": "ChopSoc II 2019",
+            "date": "2019-10-12",
+            "course_id": 28,
+            "type": "chopsoc",
+            "scorer": "Stableford"
+        }
+    ]
+}
