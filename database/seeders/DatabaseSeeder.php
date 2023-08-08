@@ -17,6 +17,8 @@ class DatabaseSeeder extends Seeder
             CourseSeeder::class,
             HoleSeeder::class,
             CompetitionSeeder::class,
+            ScorecardSeeder::class,
+            ScoreSeeder::class,
         ]);
     }
 }
