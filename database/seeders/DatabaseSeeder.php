@@ -15,6 +15,7 @@ class DatabaseSeeder extends Seeder
         $this->call([
             GolferSeeder::class,
             CourseSeeder::class,
+            HoleSeeder::class,
         ]);
     }
 }
