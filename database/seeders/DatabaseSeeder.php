@@ -16,6 +16,7 @@ class DatabaseSeeder extends Seeder
             GolferSeeder::class,
             CourseSeeder::class,
             HoleSeeder::class,
+            CompetitionSeeder::class,
         ]);
     }
 }

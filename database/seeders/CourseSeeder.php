@@ -7,6 +7,6 @@ use App\Models\Course;
 
 class CourseSeeder extends Seeder
 {
-    public string $table = 'courses';
-    public string $model = Course::class;
+    public string $seedKey = 'courses';
+    public string $modelClass = Course::class;
 }

@@ -7,6 +7,6 @@ use App\Models\Hole;
 
 class HoleSeeder extends Seeder
 {
-    protected string $table = 'holes';
-    protected string $model = Hole::class;
+    protected string $seedKey = 'holes';
+    protected string $modelClass = Hole::class;
 }
